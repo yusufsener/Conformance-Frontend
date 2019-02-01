@@ -1,0 +1,99 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 19, 2015, 3:01:22 PM
+    Author     : nomor
+*/
+       h2{
+            position: absolute;
+            left: 5px;
+            top: -20px;
+            color: #1E90FF;
+            font-size: 250%;
+            text-shadow: 5px 5px 8px #888888;
+        }
+        #vectors{
+            position: absolute;
+            font-size: 18px;
+            left: 120px;
+            top: 250px;
+            line-height: 18px;
+        }
+        #Testvectors{
+            position: absolute;
+            left: 120px;
+            top: 200px;
+            font-size: 120%;
+            color: #1E00FF;
+        }
+        #status {
+            position: absolute;
+            left: 280px;
+            top: 140px;
+            font-size: 120%;
+            color: #A0522D;
+        }
+        #statusContent{
+            position: absolute;
+            left: 350px;
+            top: 140px;
+            font-size: 110%;
+            color: #A0522D;
+        }
+        #outputs{
+             position: absolute;
+            left: 910px;
+            top: 103px;
+        }
+         #results{
+             position: absolute;
+            left: 30px;
+            top: 200px;
+             font-size: 120%;
+        }
+        #Checkbox{
+            position: absolute;
+            left: 7px;
+            top: 75px;
+            transform: scale(1.2);
+        }
+        #ChecboxTitle{
+            position: absolute;
+            left: 30px;
+            top: 55px;
+            font-size: 120%;
+        }
+        #Pause{
+            position: absolute;
+            left: 7px;
+            top: 95px;
+            transform: scale(1.2);
+        }
+        #PauseTitle{
+            position: absolute;
+            left: 30px;
+            top: 75px;
+            font-size: 120%;
+        }
+        #RefMsg{
+            position: absolute;
+            left: 260px;
+            top: 62px;
+            color: green;
+        }
+        #Start{
+            position: absolute;
+            left: 10px;
+            top: 150px;
+            width: 200px;
+            height: 35px;
+            font-size: 100%;
+            border-radius: 4%;
+            border: 1px solid;
+            color: green;
+        }
+         
+        

@@ -1,0 +1,741 @@
+Warning: moov-1:trak-1:mdia-1:minf-1:stbl-1:stsd-1 - unknown atom found "hvcC": video sample descriptions would not normally contain this
+WARNING: In moov-1:mvex-1 - unknown mvex atom 'trep'
+WARNING: In moov-1:udta-1 - unknown/unexpected atom 'meta'
+WARNING: In moof-1:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-1:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-1:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-2:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-2:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-2:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-3:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-3:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-3:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-4:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-4:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-4:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-5:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-5:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-5:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-6:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-6:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-6:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-7:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-7:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-7:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-8:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-8:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-8:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-9:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-9:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-9:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-10:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-10:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-10:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-11:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-11:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-11:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-12:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-12:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-12:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-13:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-13:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-13:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-14:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-14:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-14:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-15:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-15:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-15:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-16:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-16:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-16:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-17:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-17:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-17:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-18:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-18:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-18:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-19:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-19:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-19:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-20:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-20:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-20:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-21:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-21:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-21:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-22:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-22:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-22:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-23:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-23:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-23:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-24:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-24:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-24:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-25:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-25:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-25:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-26:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-26:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-26:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-27:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-27:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-27:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-28:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-28:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-28:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-29:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-29:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-29:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-30:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-30:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-30:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-31:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-31:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-31:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-32:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-32:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-32:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-33:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-33:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-33:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-34:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-34:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-34:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-35:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-35:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-35:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-36:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-36:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-36:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-37:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-37:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-37:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-38:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-38:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-38:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-39:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-39:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-39:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-40:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-40:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-40:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-41:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-41:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-41:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-42:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-42:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-42:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-43:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-43:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-43:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-44:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-44:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-44:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-45:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-45:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-45:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-46:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-46:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-46:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-47:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-47:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-47:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-48:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-48:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-48:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-49:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-49:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-49:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-50:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-50:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-50:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-51:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-51:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-51:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-52:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-52:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-52:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-53:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-53:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-53:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-54:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-54:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-54:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-55:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-55:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-55:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-56:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-56:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-56:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-57:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-57:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-57:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-58:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-58:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-58:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-59:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-59:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-59:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-60:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-60:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-60:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-61:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-61:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-61:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-62:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-62:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-62:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-63:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-63:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-63:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-64:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-64:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-64:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-65:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-65:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-65:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-66:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-66:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-66:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-67:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-67:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-67:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-68:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-68:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-68:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-69:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-69:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-69:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-70:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-70:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-70:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-71:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-71:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-71:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-72:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-72:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-72:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-73:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-73:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-73:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-74:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-74:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-74:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-75:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-75:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-75:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-76:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-76:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-76:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-77:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-77:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-77:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-78:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-78:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-78:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-79:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-79:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-79:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-80:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-80:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-80:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-81:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-81:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-81:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-82:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-82:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-82:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-83:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-83:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-83:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-84:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-84:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-84:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-85:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-85:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-85:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-86:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-86:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-86:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-87:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-87:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-87:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-88:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-88:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-88:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-89:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-89:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-89:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-90:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-90:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-90:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-91:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-91:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-91:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-92:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-92:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-92:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-93:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-93:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-93:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-94:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-94:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-94:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-95:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-95:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-95:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-96:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-96:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-96:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-97:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-97:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-97:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-98:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-98:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-98:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-99:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-99:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-99:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-100:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-100:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-100:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-101:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-101:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-101:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-102:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-102:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-102:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-103:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-103:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-103:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-104:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-104:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-104:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-105:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-105:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-105:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-106:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-106:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-106:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-107:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-107:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-107:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-108:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-108:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-108:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-109:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-109:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-109:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-110:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-110:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-110:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-111:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-111:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-111:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-112:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-112:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-112:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-113:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-113:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-113:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-114:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-114:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-114:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-115:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-115:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-115:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-116:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-116:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-116:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-117:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-117:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-117:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-118:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-118:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-118:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-119:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-119:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-119:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-120:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-120:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-120:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-121:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-121:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-121:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-122:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-122:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-122:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-123:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-123:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-123:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-124:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-124:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-124:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-125:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-125:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-125:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-126:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-126:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-126:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-127:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-127:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-127:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-128:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-128:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-128:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-129:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-129:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-129:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-130:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-130:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-130:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-131:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-131:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-131:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-132:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-132:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-132:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-133:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-133:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-133:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-134:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-134:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-134:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-135:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-135:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-135:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-136:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-136:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-136:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-137:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-137:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-137:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-138:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-138:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-138:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-139:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-139:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-139:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-140:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-140:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-140:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-141:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-141:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-141:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-142:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-142:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-142:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-143:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-143:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-143:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-144:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-144:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-144:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-145:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-145:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-145:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-146:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-146:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-146:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-147:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-147:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-147:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-148:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-148:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-148:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-149:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-149:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-149:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-150:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-150:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-150:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-151:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-151:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-151:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-152:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-152:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-152:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-153:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-153:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-153:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-154:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-154:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-154:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-155:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-155:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-155:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-156:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-156:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-156:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-157:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-157:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-157:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-158:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-158:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-158:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-159:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-159:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-159:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-160:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-160:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-160:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-161:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-161:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-161:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-162:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-162:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-162:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-163:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-163:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-163:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-164:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-164:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-164:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-165:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-165:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-165:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-166:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-166:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-166:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-167:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-167:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-167:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-168:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-168:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-168:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-169:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-169:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-169:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-170:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-170:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-170:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-171:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-171:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-171:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-172:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-172:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-172:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-173:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-173:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-173:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-174:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-174:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-174:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-175:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-175:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-175:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-176:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-176:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-176:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-177:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-177:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-177:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-178:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-178:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-178:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-179:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-179:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-179:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-180:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-180:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-180:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-181:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-181:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-181:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-182:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-182:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-182:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-183:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-183:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-183:traf-1 - unknown traf atom 'senc'
+WARNING: In moof-184:traf-1 - unknown traf atom 'saiz'
+WARNING: In moof-184:traf-1 - unknown traf atom 'saio'
+WARNING: In moof-184:traf-1 - unknown traf atom 'senc'
+### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        Buffer underrun conformance error: first (and only one reported here) for sample 50 of run 1 of track fragment 1 of fragment 11 of track id 1 (sample absolute file offset 3202028, fragment absolute file offset 2975511, bandwidth: 692577)

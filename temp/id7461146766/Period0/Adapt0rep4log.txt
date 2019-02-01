@@ -1,0 +1,9 @@
+ImageDescription name must be '0' not '10'
+ImageDescription depth must be 24 not 0
+WARNING: colr atom of type nclx found, the software does not handle colr atoms of this type. 
+WARNING: In moov-1:mvex-1 - unknown mvex atom 'trep'
+ (184 repetition\s) WARNING: In moof-1:traf-1 - unknown traf atom 'saiz'
+ (184 repetition\s) WARNING: In moof-1:traf-1 - unknown traf atom 'saio'
+ (184 repetition\s) WARNING: In moof-1:traf-1 - unknown traf atom 'senc'
+error (184 repetition\s) ###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        Buffer underrun conformance error: first (and only one reported here) for sample 95 of run 1 of track fragment 1 of fragment 12 of track id 1 (sample absolute file offset 14102456, fragment absolute file offset 12520375, bandwidth: 2726377)

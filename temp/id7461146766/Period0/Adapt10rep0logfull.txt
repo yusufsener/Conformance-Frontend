@@ -1,0 +1,5 @@
+WARNING: In moov-1:trak-1:mdia-1:minf-1 - unknown/unexpected atom 'sthd'
+WARNING: In unknown media atom 'moov-1:trak-1:mdia-1'
+WARNING: In moov-1:mvex-1 - unknown mvex atom 'trep'
+### error:  
+###        Buffer underrun conformance error: first (and only one reported here) for sample 1 of run 1 of track fragment 1 of fragment 2 of track id 1 (sample absolute file offset 1329, fragment absolute file offset 1225, bandwidth: 1098)

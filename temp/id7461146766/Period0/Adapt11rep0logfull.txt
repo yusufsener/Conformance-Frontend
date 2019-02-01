@@ -1,0 +1,23 @@
+### error: moov-1:trak-1:mdia-1:hdlr-1 
+###        'hdlr' handler type must be be one of ('odsm', 'crsm', 'sdsm', 'vide', 'soun', 'm7sm', 'ocsm', 'ipsm', 'mjsm', 'hint', 'subt')
+WARNING: In moov-1:trak-1:mdia-1:minf-1 - unknown media type 'text'
+SampleDescription sdType must be 'mp4s'
+'ESDAtom' flags must be 0 not 0x454256
+ESDAtom version must be 0 not 0x57
+Validate_ES_Descriptor: Tag != Class_ES_DescrTag
+
+Validate_ES_Descriptor: ES_ID should be 0 not 2560 in media tracks
+
+### error: moov-1:trak-1:mdia-1:minf-1:stbl-1:stsd-1 
+###        Descriptor: Not enough bits left in the bitstream for further attribute validation
+### error: moov-1:trak-1:mdia-1:minf-1:stbl-1:stsd-1 
+###        Validate_ES_Descriptor: Not enough bits left in the bitstream for further attribute validation
+### error: moov-1:trak-1:mdia-1:minf-1:stbl-1:stsd-1 
+###        Validate_mp4s_ES_Bitstream: Not enough bits left in the bitstream for further attribute validation
+WARNING: In moov-1:trak-1:mdia-1:minf-1 - unknown/unexpected atom 'nmhd'
+WARNING: In unknown media atom 'moov-1:trak-1:mdia-1'
+### error: moov-1:trak-1 
+###        Non-visual/audio track has non-zero trackVolume, trackWidth, or trackHeight
+WARNING: In moov-1:mvex-1 - unknown mvex atom 'trep'
+### error:  
+###        Buffer underrun conformance error: first (and only one reported here) for sample 1 of run 1 of track fragment 1 of fragment 2 of track id 1 (sample absolute file offset 1054, fragment absolute file offset 950, bandwidth: 445)

@@ -1,0 +1,20 @@
+Start XLink resolving
+=====================
+
+XLink resolving successful
+
+
+
+Start MPD validation
+====================
+
+MPD validation successful - DASH is valid!
+
+
+
+Start Schematron validation
+===========================
+
+Schematron validation successful - DASH is valid!
+
+

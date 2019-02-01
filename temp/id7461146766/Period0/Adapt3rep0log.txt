@@ -1,0 +1,10 @@
+Warning: Validate DecoderSpecificInfo didn't use 16 bits
+WARNING: In unknown media atom 'moov-1:trak-1:mdia-1'
+WARNING: In moov-1:mvex-1 - unknown mvex atom 'trep'
+WARNING: In moov-1:udta-1 - unknown/unexpected atom 'meta'
+WARNING: In moov-1:udta-1 - unknown/unexpected atom 'chpl'
+ (185 repetition\s) WARNING: In moof-1:traf-1 - unknown traf atom 'saiz'
+ (185 repetition\s) WARNING: In moof-1:traf-1 - unknown traf atom 'saio'
+ (185 repetition\s) WARNING: In moof-1:traf-1 - unknown traf atom 'senc'
+error (184 repetition\s) ###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present### error:  
+###        For an encrypted content, ContentProtection Descriptor shall always be present and DASH264 profile shall also be present

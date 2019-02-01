@@ -1,0 +1,4 @@
+'tkhd' alternateGroup must be 0 not 1
+Validate_ES_Descriptor: ES_ID should be 0 not 1 in media tracks
+Warning: Validate DecoderSpecificInfo didn't use 8 bits
+WARNING: In moov-1:udta-1 - unknown/unexpected atom 'meta'
